@@ -1,4 +1,7 @@
 ## Intel Incentivized Testnet
+### Register Rivalz Testnet
+[Link](https://rivalz.ai?r=duyenhtm)
+- Connect your EVM wallet.
 ### Install Packages
 ```console
 sudo apt update & sudo apt upgrade -y
@@ -10,6 +13,10 @@ curl -sL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 sudo apt-get install -y nodejs
 node -v
 npm -v
+```
+### Create a screen session
+```console
+screen -S rivalz
 ```
 ### Install the Rivalz Node CLI
 ```console
